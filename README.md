@@ -1,5 +1,5 @@
 # Movie Booking Website
-In our project aims we have developed a website where customers can book movie tickets online with ease without standing in long queues. The website provides complete information regarding currently running movies, upcoming movies with details of show timings, available seats in different theatres to provide smooth booking experience for the users.
+In our project aims we have developed a website where customers can book movie tickets online with ease without standing in long queues. The website provides complete information regarding currently running movies, upcoming movies with details of show timings, available seats in different theatres to provide a one stop cinema booking platform.
 
 ## Screenshots
 
